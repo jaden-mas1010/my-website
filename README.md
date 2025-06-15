@@ -33,6 +33,5 @@ A fully responsive, clean, and modern website built for an aviation ground handl
 
 ---
 
-## Folder Structure (example)
 
 
